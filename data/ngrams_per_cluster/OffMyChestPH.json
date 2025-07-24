@@ -1,0 +1,132 @@
+{
+    "0": {
+        "texts": [
+            "hirap hirap",
+            "year college",
+            "part time",
+            "next year",
+            "araw araw",
+            "call center",
+            "high school",
+            "board exam",
+            "pagod pagod",
+            "mental health"
+        ],
+        "frequencies": [
+            50,
+            60,
+            61,
+            61,
+            65,
+            68,
+            69,
+            79,
+            91,
+            110
+        ]
+    },
+    "1": {
+        "texts": [
+            "hirap hirap",
+            "next time",
+            "putang ina",
+            "mahal mahal",
+            "high school",
+            "araw araw",
+            "mental health",
+            "sama loob",
+            "social media",
+            "pagod pagod"
+        ],
+        "frequencies": [
+            59,
+            59,
+            68,
+            75,
+            81,
+            83,
+            95,
+            101,
+            138,
+            208
+        ]
+    },
+    "2": {
+        "texts": [
+            "mama papa",
+            "utang loob",
+            "hirap hirap",
+            "kamag anak",
+            "pagod pagod",
+            "high school",
+            "mental health",
+            "araw araw",
+            "sama loob",
+            "kay mama"
+        ],
+        "frequencies": [
+            51,
+            51,
+            56,
+            58,
+            73,
+            74,
+            75,
+            81,
+            90,
+            120
+        ]
+    },
+    "3": {
+        "texts": [
+            "mahal mahal",
+            "circle friends",
+            "time time",
+            "mental health",
+            "close friends",
+            "friend group",
+            "someone else",
+            "dating app",
+            "high school",
+            "social media"
+        ],
+        "frequencies": [
+            87,
+            87,
+            90,
+            94,
+            95,
+            97,
+            108,
+            125,
+            136,
+            162
+        ]
+    },
+    "4": {
+        "texts": [
+            "someone else",
+            "araw araw",
+            "love life",
+            "mahal mahal",
+            "miss miss",
+            "pagod pagod",
+            "mahal kita",
+            "high school",
+            "social media",
+            "mental health"
+        ],
+        "frequencies": [
+            48,
+            49,
+            51,
+            53,
+            58,
+            59,
+            64,
+            71,
+            76,
+            124
+        ]
+    }
+}
